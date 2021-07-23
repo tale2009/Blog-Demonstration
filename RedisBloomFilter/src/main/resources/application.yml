@@ -1,0 +1,6 @@
+server:
+  port: 9527
+spring:
+  redis:
+    port: 63790
+    host: localhost
